@@ -5,4 +5,6 @@ angular.module('myApp', [])
         {content: 'content 2'}];
         
     $scope.status = true;
+    
+    $scope.data = 1;
 });
